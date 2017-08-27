@@ -1,5 +1,5 @@
 /*global describe, it */
-var object = require("../objects.js")
+var objects = require("../objects.js")
 const expect = require('chai').expect
 const fs = require('fs')
 const jsdom = require('mocha-jsdom')
